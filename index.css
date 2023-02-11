@@ -1,0 +1,52 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+}
+
+.date{
+    text-align: center;
+    margin: 50px;
+    color: white;
+}
+.container{
+    display: flex;
+    margin:0px 100px 0px 100px; 
+    background-color: white;
+    height: 821px;
+
+}
+
+img{
+    width: 100%;
+    object-fit: contain;
+}
+
+.quote{
+    font-size: 60px;
+    text-align: center;
+    position: relative;
+    top: 220px;
+    
+}
+.container-1{
+    background-color: black;
+    margin: 0px 500px 0px 500px;
+    
+
+}
+
+.bio{
+    color: white;
+    font-size: 55px;
+}
+
+.message{
+    color:white;
+    font-size:20px
+}
+
+hr{
+    margin: 40px 480px 40px 480px;
+
+}
